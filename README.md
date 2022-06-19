@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Sr. Novus (Nvus Security)</h1>
-<h3 align="center">An android content developer like Help Bots and Founder of Nvus Security Guatemala</h3>
+<h1 align="center">Hi 👋, I'm Javier Caceres (Sr. Novus)</h1>
+<h3 align="center">I am a Developer of JCystem and different other projects</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nvus-s&label=Profile%20views&color=0e75b6&style=flat" alt="nvus-s" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nvus-s" alt="nvus-s" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nvus-s" alt="jcystem" /></a> </p>
 
 - 🔭 I’m currently working on **Nvs Security**
 
