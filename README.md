@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Javier Caceres</h1>
 <h3 align="center">A passionate frontend developer from Honduras</h3>
 
-- 🔭 I’m currently working on **Master Electronicos**
 
 - 🌱 I’m currently learning **Python and English**
 
