@@ -1,5 +1,4 @@
 ### Hola 👋, Mi nombre es Javier Caceres
-#### desarrollando JCystem y Fedired
 ![desarrollando JCystem y Fedired](https://fedired.lat/files/040e9274-13e2-423c-ae59-25bf4a9c0e3f)
 
 
