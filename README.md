@@ -4,9 +4,9 @@
 
 Habilidades: En ver que hago 
 
-- 🔭 Estoy trabajando en JCystem y Fedired 
+- 🔭 Estoy trabajando en FedOSS y Fedired 
 - 🌱 Estoy aprendiendo a programar 
-- 📫 Cómo contactarme: javier@jcystem.com 
+- 📫 Cómo contactarme: javier@fedoss.otg
 - 😄 Pronombres: srnovus 
 
 
