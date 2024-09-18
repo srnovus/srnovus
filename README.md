@@ -51,11 +51,11 @@ func GetBio() Bio {
 
 <h4 align="center">Recuento de visitantes :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="srnovus :: Visitor's Count" /></p>
 
 <h4 align="center">Top lenguajes :tongue:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhellO&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srnovus&langs_count=10&theme=tokyonight&layout=compact" alt="srnovus :: Top Langs" /></p>
 
 <h4 align="center">Estadísticas de perfil :musical_keyboard:</h4>
 
