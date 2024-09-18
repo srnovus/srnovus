@@ -51,7 +51,7 @@ func GetBio() Bio {
 
 <h4 align="center">Recuento de visitantes :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="srnovus :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{srnovus}/count.svg" alt="srnovus :: Visitor's Count" /></p>
 
 <h4 align="center">Top lenguajes :tongue:</h4>
 
