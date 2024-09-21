@@ -33,7 +33,7 @@ func GetBio() Bio {
 <h2 align="center">Puedes contactarme en :alien:</h2>
 
 <p align="center">
-  <a href="https://github.com/srnovus/">
+  <a href="https://fedired.com/@srnovus">
     <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="Javier Caceres GitHub Profile" height="30" width="30">
   </a>
 </p>
