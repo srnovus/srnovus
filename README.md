@@ -36,6 +36,7 @@ func GetBio() Bio {
     <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="Javier Caceres GitHub Profile" height="30" width="30">
   </a>
 </p>
+<a rel="me" href="https://fedired.com/@srnovus">Mastodon</a>
 
 <h2 align="center">CV Digital :man_technologist:</h2>
 
