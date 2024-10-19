@@ -2,8 +2,8 @@ name: Actualizar README con contribuciones
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Ejecuta esta acción todos los días a medianoche
-  workflow_dispatch: # Permite ejecutar manualmente desde la pestaña de Actions
+    - cron: '0 0 * * *' # Ejecuta una vez al día a la medianoche
+  workflow_dispatch: # Permite ejecución manual desde Actions
 
 jobs:
   actualizar-readme:
@@ -20,7 +20,7 @@ jobs:
 
       - name: Obtener últimas contribuciones
         run: |
-          # Instalar la librería octokit para interactuar con la API de GitHub
+          # Instalar octokit para interactuar con la API de GitHub
           npm install @octokit/core
           
           # Crear script para obtener las contribuciones recientes
@@ -28,7 +28,6 @@ jobs:
           const { Octokit } = require("@octokit/core");
           const fs = require('fs');
 
-          // Configurar nombre de usuario y repositorio
           const usuario = 'srnovus';
           const repositorio = 'fedired';
           const octokit = new Octokit();
@@ -37,7 +36,7 @@ jobs:
               const respuesta = await octokit.request('GET /repos/{owner}/{repo}/commits', {
                   owner: 'fedired-dev',
                   repo: repositorio,
-                  per_page: 5  // Número de commits recientes a obtener
+                  per_page: 5
               });
 
               const contribuciones = respuesta.data.map(commit => {
