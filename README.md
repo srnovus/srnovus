@@ -34,10 +34,12 @@ Soy un Joven que le gusta aprender que vive en Guatemala, me apasiona el código
 
 <hr/>
 
-## Mis últimas contribuciones
+## Mis últimas contribuciones en Fedired
 
 <!--INICIO_SECCION:contribuciones-->
+Cargando últimas contribuciones...
 <!--FIN_SECCION:contribuciones-->
+
 
 
 <hr/>
