@@ -34,10 +34,10 @@ Soy un Joven que le gusta aprender que vive en Guatemala, me apasiona el código
 
 <hr/>
 
-## 🐍
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/srnovus/srnovus/main/resources/img/github-contribution-grid-snake.svg"
-    alt="srnovus" />
-</p>
+## Mis últimas contribuciones
+
+<!--INICIO_SECCION:contribuciones-->
+<!--FIN_SECCION:contribuciones-->
+
 
 <hr/>
