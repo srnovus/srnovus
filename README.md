@@ -1,66 +1,43 @@
-# Javier Caceres
 
-<h2 align="center">Sobre mi</h2>
-
-```golang
-package main
-
-import (
-	"fmt"
-)
-
-type Bio map[string]string
-
-func main() {
-	for k, v := range GetBio() {
-		fmt.Printf("%+v: %+v\n", k, v)
-	}
-}
-
-func GetBio() Bio {
-	return Bio{
-		"- ⚡ Quick bio:":                    "A kind of metalHead-synthWave-cyberPunk-melomaniac-gearAddict-amateurMusician-traveler-foodLover-gamer-coder-programmer-catLover-sportsAficionado hybrid",
-		"- 🔭 I am currently working on":     "Developer of Sushell Store --- Itronics Guatemala as Web Developer --- Developer of FediredUI Theme and 4chapin",
-		"- 🌱 I am currently learning":       "PostgreSQL MongoDB, Ruby and CSS --- Improving my skills",
-		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
-		"- 💬 Ask me about": 		      "Decentralization and something else",
-		"- 📫 How to reach me:":              "https://fedired.com/#srnovus",
-	}
-}
-```
-
-<h2 align="center">Puedes contactarme en :alien:</h2>
-
+<h1 align="center">Hola gente, soy Javier <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://fedired.com/@srnovus">
-    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="Javier Caceres GitHub Profile" height="30" width="30">
-  </a>
+  <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?lines=Trabajando+en;%20|%20Fedired%20|%20Fedired%20Hosting%20|%20Sushell%20|%20Itronics;No%20soy%20un%20experto&center=true&width=500&height=50"></a>
 </p>
-<center>
-<a rel="me" href="https://fedired.com/@srnovus">Mastodon</a>
-</center>
-<h2 align="center">CV Digital :man_technologist:</h2>
+<hr/>
 
-<p align="center">Puedes encontrar mi CV Digital en</p>
-<p align="center">
-  <a href="#">
-    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="srnovus :: StackShare" />
-  </a>
+<h4 align="center">
+Soy un Joven que le gusta aprender que vive en Guatemala, me apasiona el código abierto, la codificación y las tecnologías web❤️. <br />
+	Además de mi trabajo, me gusta crear y contribuir a proyectos de código abierto. Me ayuda a aprender mucho y crecer como desarrollador y, al mismo tiempo, a apoyar otros proyectos de código abierto.
+</h4>
+<br>
+
+<hr/> 
+
+## 🔥 Estadísticas e idiomas de racha
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=srnovus&theme=algolia" alt="srnovus" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srnovus&theme=algolia&layout=compact" alt="srnovus" /></p>
+
+<br>
+<hr/>
+
+## 🏆 Trofeos
+<p align="center"> <a href="https://github.com/srnovus"><img
+      src="https://github-profile-trophy.vercel.app/?username=srnovus&row=1&column=3&theme=algolia" alt="srnovus" /></a>  </p>
+
+<!-- info -->
+<br>
+<hr/>
+
+## ⚡ Actividad reciente de GitHub
+<a href="https://github.com/srnovus"><img alt="Gráfico de actividad" src="https://activity-graph.herokuapp.com/graph?username=srnovus&custom_title=Javier's%20Contribution%20Graph&theme=react-dark" /></a>
+
+
+<hr/>
+
+## 🐍
+  <br>
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/srnovus/srnovus/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
 </p>
 
-<h2 align="center">Estadisticas  :bar_chart:</h2>
-
-<h4 align="center">Recuento de visitantes :eyes:</h4>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{srnovus}/count.svg" alt="srnovus :: Visitor's Count" /></p>
-
-<h4 align="center">Top lenguajes :tongue:</h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srnovus&langs_count=10&theme=tokyonight&layout=compact" alt="srnovus :: Top Langs" /></p>
-
-<h4 align="center">Estadísticas de perfil :musical_keyboard:</h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=srnovus&show_icons=true&theme=synthwave" alt="srnovus :: Profile Stats" /></p>
-
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
-
+<hr/>
