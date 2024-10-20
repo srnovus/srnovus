@@ -2,8 +2,8 @@ name: Actualizar README con contribuciones
 
 on:
   schedule:
-    - cron: '*/1 * * * *' # Ejecuta el workflow cada minuto
-  workflow_dispatch: # Permite la ejecución manual desde Actions
+    - cron: '0 0 * * *' # Ejecuta una vez al día
+  workflow_dispatch: # Permite ejecución manual
 
 jobs:
   actualizar-readme:
@@ -16,10 +16,11 @@ jobs:
       - name: Configurar Node.js
         uses: actions/setup-node@v2
         with:
-          node-version: '18'
+          node-version: '18'  # Cambia a Node.js 18
 
       - name: Obtener últimas contribuciones
         run: |
+          # Usar import dinámico para el módulo ECMAScript
           node << 'EOF'
           (async () => {
             const { Octokit } = await import('@octokit/core');
@@ -49,8 +50,8 @@ jobs:
                 const contenidoReadme = fs.readFileSync(rutaReadme, 'utf8');
 
                 const nuevoContenido = contenidoReadme.replace(
-                  /<!--INICIO_SECCION:contribuciones-->[\s\S]*<!--FIN_SECCION:contribuciones-->/,
-                  `<!--INICIO_SECCION:contribuciones-->\n${contribuciones}\n<!--FIN_SECCION:contribuciones-->`
+                    /<!--INICIO_SECCION:contribuciones-->[\s\S]*<!--FIN_SECCION:contribuciones-->/,
+                    `<!--INICIO_SECCION:contribuciones-->\n${contribuciones}\n<!--FIN_SECCION:contribuciones-->`
                 );
 
                 fs.writeFileSync(rutaReadme, nuevoContenido);
