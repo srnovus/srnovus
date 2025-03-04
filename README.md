@@ -1,45 +1,64 @@
+# 👋 Hola, soy Javier Caceres
 
-<h1 align="center">Hola gente, soy Javier <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?lines=Ordo+Server;%20|%20Fedired+Social&center=true&width=500&height=50"></a>
-</p>
-<hr/>
+Soy **fundador**, **desarrollador** y **emprendedor** con una visión orientada a la creación de **soluciones tecnológicas innovadoras**. A través de **Multiservicios Sushell** y **Fedired Social**, me esfuerzo por ofrecer soluciones que promuevan **privacidad**, **seguridad** y **solidaridad** mediante la tecnología.
 
-<h4 align="center">
-Soy un Joven que le gusta aprender que vive en Guatemala, me apasiona el código abierto, la codificación y las tecnologías web❤️. <br />
-	Además de mi trabajo, me gusta crear y contribuir a proyectos de código abierto. Me ayuda a aprender mucho y crecer como desarrollador y, al mismo tiempo, a apoyar otros proyectos de código abierto.
-</h4>
-<br>
+---
 
-<hr/> 
+## 🚀 **Mis Proyectos**
 
-## 🔥 Estadísticas e idiomas de racha
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=srnovus&theme=algolia" alt="srnovus" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srnovus&theme=algolia&layout=compact" alt="srnovus" /></p>
+### 🌐 [**Multiservicios Sushell**](https://sushell.com)  
+En **Sushell**, nos especializamos en proporcionar **soluciones tecnológicas** de alto impacto para empresas y organizaciones, incluyendo:
 
-<br>
-<hr/>
+- 🖥️ **Infraestructura IT**: Instalación y mantenimiento de servidores de alto rendimiento.
+- 🔐 **Seguridad Electrónica**: Soluciones completas como cámaras de seguridad, sistemas de alarmas, y en el futuro, integración de **seguridad física**.
+- 🏪 **Sistemas de Punto de Venta y ERP**: Implementación de sistemas de gestión empresarial (ERP) basados en **Odoo**.
+- 🌐 **Desarrollo Web**: Creación de soluciones web personalizadas adaptadas a las necesidades de nuestros clientes.
+- 🌥️ **Servicios de Hosting y VPS**: Proporcionamos servicios de **hosting** y **VPS** de alto rendimiento y escalabilidad.
 
-## 🏆 Trofeos
-<p align="center"> <a href="https://github.com/srnovus"><img
-      src="https://github-profile-trophy.vercel.app/?username=srnovus&row=1&column=3&theme=algolia" alt="srnovus" /></a>  </p>
+### 🌍 [**Fedired Social**](https://github.com/fedired/)  
+**Fedired** es una **plataforma federada** que coloca la **privacidad** y el **control de datos** del usuario en el centro de la experiencia. En **Fedired Social** ofrecemos:
 
-<!-- info -->
-<br>
-<hr/>
+- **Fedired Social**: Una red social privada y descentralizada donde el usuario tiene el control total sobre sus datos.
+- **Ordo Server**: Un **backend descentralizado** que permite crear redes sociales seguras y privadas, ofreciendo una alternativa a los sistemas centralizados tradicionales.
 
-## ⚡ Actividad reciente de GitHub
-<a href="https://github.com/srnovus"><img alt="Gráfico de actividad" src="https://activity-graph.herokuapp.com/graph?username=srnovus&custom_title=Javier's%20Contribution%20Graph&theme=react-dark" /></a>
+---
 
+## 💼 **Lo que Estoy Haciendo**
 
-<hr/>
+Actualmente, me enfoco en **optimizar la infraestructura** de los servicios ofrecidos por **Sushell**, buscando siempre la **escalabilidad** y **seguridad**. Además, estoy innovando en **tecnologías descentralizadas** que permitan mejorar la **privacidad** y la **seguridad** en plataformas sociales.
 
-## Mis últimas contribuciones en Fedired
+---
 
-<!--INICIO_SECCION:contribuciones-->
-Cargando últimas contribuciones...
-<!--FIN_SECCION:contribuciones-->
+## 📬 **Conectemos**
 
+¡Me encantaría saber más de ti! Puedes contactarme a través de:
 
+- 📸 [Instagram](https://instagram.com/srnovus)
+- 📧 [Correo Electrónico](mailto:novus@sushell.com)
 
-<hr/>
+---
+
+## 🔽 **Descargar CV Informativo**
+
+Si deseas conocer más detalles sobre mi experiencia y habilidades, puedes **[descargar mi CV](https://example.com/tu-cv-informativo.pdf)**.
+
+---
+
+## 🌱 **Siempre Aprendiendo**
+
+El aprendizaje continuo es clave para mantenerse a la vanguardia. A pesar de tener experiencia en la gestión de proyectos tecnológicos, sigo comprometido con mejorar y expandir mis conocimientos para ofrecer **soluciones innovadoras** a los problemas actuales.
+
+---
+
+## 📊 **Estadísticas de GitHub**
+
+¡Aquí puedes ver cómo he estado contribuyendo en la plataforma!
+
+![Javier's GitHub Stats](https://github-readme-stats.vercel.app/api?username=javiercaceres&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+---
+
+## 🎯 **Objetivos**
+
+Mi misión es ofrecer soluciones que no solo resuelvan problemas tecnológicos, sino que también promuevan el **impacto social** y la **solidaridad**. Estoy comprometido con la creación de tecnologías que prioricen la **privacidad**, **seguridad** y el **control de datos personales**, con el objetivo de mejorar la vida de las personas y las organizaciones a través de soluciones tecnológicas.
+
