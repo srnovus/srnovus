@@ -38,12 +38,6 @@ Actualmente, me enfoco en **optimizar la infraestructura** de los servicios ofre
 
 ---
 
-## 🔽 **Descargar CV Informativo**
-
-Si deseas conocer más detalles sobre mi experiencia y habilidades, puedes **[descargar mi CV](https://example.com/tu-cv-informativo.pdf)**.
-
----
-
 ## 🌱 **Siempre Aprendiendo**
 
 El aprendizaje continuo es clave para mantenerse a la vanguardia. A pesar de tener experiencia en la gestión de proyectos tecnológicos, sigo comprometido con mejorar y expandir mis conocimientos para ofrecer **soluciones innovadoras** a los problemas actuales.
