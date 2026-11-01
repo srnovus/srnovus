@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=javiercaceres&color=5A52FF&style=for-the-badge&label=JUGADORES%20QUE%20PASARON" alt="Visitas" />
+  <img src="https://komarev.com/ghpvc/?username=srnovus&color=5A52FF&style=for-the-badge&label=JUGADORES%20QUE%20PASARON" alt="Visitas" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="" />
@@ -50,11 +50,11 @@ El de arriba es **Kai**, mi versión de 8 bits: él sale en los videos y yo hago
   HABILIDADES
   Laravel / PHP ......... [#.........]
   Node.js ............... [##........]
-  Linux / VPS ........... [##........]
-  Cloudflare ............ [#######...]
+  Linux / VPS ........... [####......]
+  Cloudflare ............ [######....]
   Facturación FEL ....... [#########.]
   IA (Claude Code+Cursor) [#########.]
-  ActivityPub ........... [#######...]
+  ActivityPub ........... [#####.....]
   Centrar un div ........ [####......]  (sigue entrenando)
 
 +==================================================================+
@@ -116,8 +116,8 @@ El de arriba es **Kai**, mi versión de 8 bits: él sale en los videos y yo hago
 ## 📊 MARCADOR
 
 <p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=javiercaceres&show_icons=true&hide_title=true&hide_border=true&bg_color=121212&title_color=5A52FF&icon_color=A78BFA&text_color=F4F4F2&ring_color=5A52FF" alt="Estadísticas" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=javiercaceres&hide_border=true&background=121212&ring=5A52FF&fire=FFD34E&currStreakLabel=A78BFA&sideLabels=F4F4F2&currStreakNum=F4F4F2&sideNums=F4F4F2&dates=A0A0A0&stroke=2A2A2A" alt="Racha" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=srnovus&show_icons=true&hide_title=true&hide_border=true&bg_color=121212&title_color=5A52FF&icon_color=A78BFA&text_color=F4F4F2&ring_color=5A52FF" alt="Estadísticas" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=srnovus&hide_border=true&background=121212&ring=5A52FF&fire=FFD34E&currStreakLabel=A78BFA&sideLabels=F4F4F2&currStreakNum=F4F4F2&sideNums=F4F4F2&dates=A0A0A0&stroke=2A2A2A" alt="Racha" />
 </p>
 
 ## 👾 PAC-MAN DE CONTRIBUCIONES
@@ -125,9 +125,9 @@ El de arriba es **Kai**, mi versión de 8 bits: él sale en los videos y yo hago
 <p align="center"><sub>Pac-Man se come mis contribuciones del último año. Los fantasmas son los bugs.</sub></p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/javiercaceres/javiercaceres/pacman/pacman-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/javiercaceres/javiercaceres/pacman/pacman-contribution-graph.svg" />
-  <img alt="Pac-Man de contribuciones" src="https://raw.githubusercontent.com/javiercaceres/javiercaceres/pacman/pacman-contribution-graph.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/srnovus/srnovus/pacman/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/srnovus/srnovus/pacman/pacman-contribution-graph.svg" />
+  <img alt="Pac-Man de contribuciones" src="https://raw.githubusercontent.com/srnovus/srnovus/pacman/pacman-contribution-graph.svg" />
 </picture>
 
 ## 🪙 INSERT COIN PARA CONTACTARME
