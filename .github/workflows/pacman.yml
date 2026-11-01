@@ -1,0 +1,32 @@
+name: Pac-Man de contribuciones
+
+# Genera el Pac-Man de contribuciones y lo publica en la rama "pacman".
+# Usa una rama propia para no pisar la rama "output" de la serpiente.
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Generar Pac-Man
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          games: 'pacman'
+
+      - name: Publicar en la rama pacman
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: pacman
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
