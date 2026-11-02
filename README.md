@@ -111,6 +111,43 @@ El de arriba es **Kai**, mi versión de 8 bits: él sale en los videos y yo hago
 </tr>
 </table>
 
+<!-- ══════════ TROFEOS GITHUB ══════════ -->
+## 🏆 TROFEOS GITHUB
+
+<p align="center"><sub>Los desbloqueé jugando en serio. Próximo desafío: <b>Pull Shark bronce</b> (16 PRs mergeados, voy por 2) 🦈</sub></p>
+
+<p align="center">
+  <a href="https://github.com/srnovus"><img width="76" title="Pull Shark ×2 · 2 pull requests mergeados · Bronce a los 16" src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/Pull-Shark/PNG/PullShark.png" alt="Pull Shark x2" /></a>
+  <a href="https://github.com/srnovus"><img width="76" title="Pair Extraordinaire · Commits con co-autoría en pull requests mergeados · Bronce a los 10" src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/Pair-Extraordinaire/PNG/PairExtraordinaire.png" alt="Pair Extraordinaire" /></a>
+  <a href="https://github.com/srnovus"><img width="76" title="YOLO · Mergeó un pull request sin review. Solo existe una vez" src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/Media/Badges/YOLO/PNG/YOLO_Badge.png" alt="YOLO" /></a>
+</p>
+
+<!-- ══════════ TROFEOS GOOGLE ══════════ -->
+## 🏅 TROFEOS GOOGLE · Developer Program
+
+<p align="center"><sub>Distintivos de mi perfil público en el Builders Hub. Click en cualquier badge para verificar las credenciales.</sub></p>
+
+<p align="center">
+  <a href="https://me.developers.google.com/u/104347329532054458306" title="Google Developer Group discovery">
+    <img width="84" src="https://www.gstatic.com/googledevelopers/profile/badges/community/gdg/discovery/badge.svg" alt="Google Developer Group discovery" />
+  </a>
+  <a href="https://me.developers.google.com/u/104347329532054458306" title="Google Developer Group member">
+    <img width="84" src="https://www.gstatic.com/googledevelopers/profile/badges/community/gdg/member/badge.svg" alt="Google Developer Group member" />
+  </a>
+  <a href="https://me.developers.google.com/u/104347329532054458306" title="GDG Guatemala Member">
+    <img width="84" src="https://www.gstatic.com/googledevelopers/profile/badges/community/gdg/chapter/badge.svg" alt="GDG Guatemala Member" />
+  </a>
+  <a href="https://me.developers.google.com/u/104347329532054458306" title="Gemini Agent Ready">
+    <img width="84" src="https://www.gstatic.com/googledevelopers/profile/badges/community/gear/badge.svg" alt="Gemini Agent Ready" />
+  </a>
+  <a href="https://me.developers.google.com/u/104347329532054458306" title="Android Studio User">
+    <img width="84" src="https://www.gstatic.com/googledevelopers/profile/badges/activity/android/install-android-studio/badge.svg" alt="Android Studio User" />
+  </a>
+  <a href="https://me.developers.google.com/u/104347329532054458306" title="Joined the Google Developer Program">
+    <img width="84" src="https://www.gstatic.com/googledevelopers/profile/badges/profile/created-profile/created_profile.svg" alt="Joined the Google Developer Program" />
+  </a>
+</p>
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="" />
 
 ## 📊 MARCADOR
